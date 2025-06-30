@@ -1,1 +1,38 @@
+## Tata Forage - Retail Revenue Data Analysis
+## Project Overview
+* Recently participated in Tata's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a consulting team at Tata.
+* Worked on a project to help a retail client review their revenue data to prepare for the future. 
+* Created data visuals along with a home page, practiced using Tableau and PowerBI to represent information, and built my presentation skills in a real-world context.
+ 
+## Features
+* Interactive Revenue Dashboard: Explore key revenue trends and patterns over time and by various dimensions.
+* Geographic Sales Analysis: Visualizes revenue performance across different regions or locations.
+* Client-Focused Visuals: Designed to present complex data clearly for strategic business decisions.
 
+## Technologies Used
+* Power BI Desktop: For data visualization, report views, and home page designing.
+
+## Key Skills Demonstrated
+* Analysis & Presentation
+* Analytics & Insights
+* Charts & Graphs
+* Dashboard
+* Data Analysis
+* Data Cleanup
+* Data Interpretation
+* Data Visualisation
+* Effective Communication
+* Visual Basics
+* Visualisation
+
+## How To Access 
+* The Power BI .pbix file for this project has been uploaded to this repository.
+* Download the file and open it with Power BI Desktop to explore the interactive dashboard.
+
+## Certificate
+* You can find the certificate under my 'Certifications' repository or refer my LinkedIn profile.
+
+## LinkedIn
+* --Post link--
+
+## Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
