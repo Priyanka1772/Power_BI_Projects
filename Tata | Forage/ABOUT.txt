@@ -33,6 +33,6 @@
 * You can find the certificate under my 'Certifications' repository or refer my LinkedIn profile.
 
 ## LinkedIn
-* --Post link--
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_tata-forage-jobsimulation-activity-7345687855668568064-Rm61?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
 
 ## Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
