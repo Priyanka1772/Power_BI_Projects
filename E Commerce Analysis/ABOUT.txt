@@ -1,1 +1,26 @@
+## E-commerce Sales Performance Dashboard - Power BI Project
+## Project Summary
+* This Power BI dashboard provides an in-depth analysis of E-commerce sales performance, focusing on key metrics like sales, profit, and quantity.
+* It aims to deliver actionable insights into product performance, regional sales, and overall business health, empowering data-driven decision-making.
 
+## Features
+* Live Data Connection: Utilizes an OData Feed data connector to ensure the dashboard reflects near real-time sales and profit data, providing up-to-date insights.
+* Comprehensive Sales & Profit Analysis: Offers detailed visualizations of Total Sales, Total Profit, Quantity Sold, and AOV(Average Order Value)displayed through clear Key Performance Indicator (KPI) cards and trend charts.
+* Geographical Insights: Features an interactive City slicer, enabling users to instantly filter and analyze sales and profit performance across specific urban areas.
+* Time-Based Performance: Includes a dynamic Quarter-wise slicer to easily navigate and compare sales and profit trends across different quarters, identifying seasonal patterns and growth areas.
+* Detailed Report Views: Presents data in structured report formats, allowing for granular exploration of product categories, customer segments, and order details to uncover underlying patterns.
+
+## Technologies Used
+* Microsoft Power BI Desktop: For data modeling, visualization, and interactive dashboard creation.
+* OData Feed: For connecting to and importing live data.
+* Microsoft Power BI Service: For publishing and understanding pipeline and dataflows.
+
+## How To Access
+* The Power BI report (.pbix) file for this project has been uploaded to this repository.
+* Download the file and open it with Microsoft Power BI Desktop to explore the interactive dashboard locally.
+
+## Data Source
+The analysis is based on the dataset that has been uploaded to this repository.
+
+## LinkedIn
+(--Link--)
