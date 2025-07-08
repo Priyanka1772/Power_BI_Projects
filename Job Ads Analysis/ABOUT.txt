@@ -1,1 +1,26 @@
+## Job Ad Insights Dashboard - Power BI Project
+## Project Summary
+* This Power BI dashboard offers a dynamic analysis of job advertisement data, focusing on key trends in job titles, contract types, and no. of employees.
+* It aims to provide comprehensive insights for recruiters, job seekers, and HR professionals to better understand the job market landscape.
+
+## Features
+* Job Market Overview: Presents a clear summary of job ad metrics, including total job postings, distribution by contract type, and key trends in employee demand.
+* Dynamic Filtering: Includes interactive slicers for Job Title, Contract Type, and Employee count etc.., allowing users to quickly filter and pinpoint specific job market segments.
+* Date-Range Analysis: Features intuitive date sliders that enable precise analysis of job ad trends over custom time periods, revealing seasonality or shifts in demand.
+* Detailed Report View: Provides a structured report view to deep-dive into the data, offering granular insights into job ad specifics and associated metrics.
+* Customizable Insights: Users can explore relationships between various dimensions (e.g., how specific job titles relate to certain contract types, or employee demand over time) to uncover hidden patterns.
+
+## Technologies Used
+* Microsoft Power BI Desktop: For data modeling, visualization, and interactive dashboard creation.
+* Microsoft Power BI Service: For publishing and understanding pipeline and dataflows.
+
+## How To Access
+* The Power BI report (.pbix) file for this project has been uploaded to this repository.
+* Download the file and open it with Microsoft Power BI Desktop to explore the interactive dashboard locally.
+
+## Data Source
+The analysis is based on the dataset that has been uploaded to this repository.
+
+## LinkedIn
+(--Link--)
 
