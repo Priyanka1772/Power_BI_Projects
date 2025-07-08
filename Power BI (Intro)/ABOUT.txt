@@ -1,0 +1,28 @@
+## Power BI Charting & Concept Demonstrator
+## Project Summary
+* This Power BI project serves as an interactive demonstration of core data visualization concepts and various chart types available within Power BI.
+* It aims to introduce users to the effective use of different visualizations to extract insights and includes examples of advanced analytical features.
+
+## Features
+* Conceptual Demonstrations: Illustrates fundamental data visualization principles such as data distribution, comparison, composition, and relationships through practical examples.
+* Diverse Chart Gallery: Showcases a range of Power BI's built-in chart types, including:
+    * Bar/Column Charts: For comparing categories.
+    * Line Charts: For showing trends over time.
+    * Pie/Donut Charts: For part-to-whole relationships.
+    * Scatter Plots: For identifying correlations.
+    * Maps: For geographical data representation.
+    * Key Influencers Visual: Demonstrates how this AI visual identifies factors that drive a specific metric or outcome.
+* Usage & Application Insights: Each visualization or concept is accompanied by insights into *when* and *why* to use a particular chart type to best represent specific data stories or answer different business questions.
+* Interactive Exploration: Allows users to interact with the visualizations, apply basic filters, and observe how data representations change, fostering a deeper understanding.
+
+## Technologies Used
+* Microsoft Power BI Desktop: For creating and showcasing interactive data visualizations and reports.
+
+## How To Access
+* The Power BI report (.pbix) file for this project has been uploaded to this repository.
+* Download the file and open it with Microsoft Power BI Desktop to explore the interactive demonstrations locally.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
+
+---
