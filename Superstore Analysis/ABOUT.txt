@@ -28,7 +28,7 @@
 * Download the file and open it with Microsoft Power BI Desktop to explore the interactive dashboard locally.
 
 ## Data Source
-The analysis is based on the publicly available Superstore Dataset.
+* The analysis is based on the publicly available Superstore Dataset.
 
 ## LinkedIn 
-(--Link--)
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_powerbi-dataanalysis-businessintelligence-activity-7350761290295914497-Grgj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
