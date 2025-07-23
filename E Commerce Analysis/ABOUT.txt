@@ -20,7 +20,7 @@
 * Download the file and open it with Microsoft Power BI Desktop to explore the interactive dashboard locally.
 
 ## Data Source
-The analysis is based on the dataset that has been uploaded to this repository.
+* The analysis is based on the dataset that has been uploaded to this repository.
 
 ## LinkedIn
-(--Link--)
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_powerbi-ecommerceanalytics-dataanalysis-activity-7351486062088646656-fypJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
