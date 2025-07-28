@@ -1,1 +1,32 @@
+### Zomato Delivery Insights - Power BI Analysis
+## Project Summary
+* This Power BI project provides a comprehensive analysis of Zomato delivery records, aiming to uncover key insights into operational efficiency, customer behavior, and service performance.
+* It features robust data cleaning, extensive DAX calculations for custom metrics and columns, and includes a detailed report and a presentation (PPT) to offer a multi-faceted view of the findings and strategic recommendations.
+
+## Features
+* Extensive Data Cleaning & Transformation: Performed a major chunk of data cleaning to ensure data quality and reliability, including handling missing values, standardizing formats, and resolving inconsistencies in the raw delivery records.
+* Advanced Data Modeling with DAX:
+  * Implemented calculated columns to derive new dimensions and attributes directly within the data model.
+  * Created calculated measures (metrics) in a separate, dedicated table using DAX (Data Analysis Expressions) to deliver precise, dynamic, and complex analytical insights (e.g., Average Delivery Time, Peak Hour Order Rate, Customer Satisfaction Score).
+* Operational Performance Overview: Visualizes critical metrics related to delivery, such as delivery times, order volumes, and peak hours, helping to identify areas for logistical optimization.
+* Customer Behavior Insights: Explores patterns in customer ordering, popular food types, and service ratings, providing intelligence for enhanced customer experience and targeted marketing.
+* Interactive Filtering & Slicers: Features a wide range of slicers (e.g., by location, time, restaurant type, delivery partner) allowing users to dynamically filter data and drill down into specific segments for detailed analysis.
+* Diverse Graphical Representations: Utilizes a wide range of graphical representations (e.g., bar charts, line charts, pie charts, geographical maps, scatter plots) to ensure complex data is presented clearly and is easy to interpret for various stakeholders.
+* Actionable Insights & Recommendations: Provides respective insights and actionable recommendations derived directly from the data analysis, aimed at improving delivery efficiency, customer satisfaction, and overall business strategy.
+
+## Technologies Used
+* Microsoft Power BI Desktop: For comprehensive data modeling, DAX calculations, advanced visualization, and interactive dashboard creation.
+* Microsoft Power BI Service: For publishing.
+* Microsoft Presentation: For presentation.
+
+## How To Access
+* The Power BI report (.pbix) file for this project has been uploaded to this repository.
+* Download the file and open it with Microsoft Power BI Desktop to explore the interactive dashboard locally.
+* Presentation (PPT): A concise summary of the project's most critical insights and strategic recommendations, designed for stakeholder communication.
+
+## Data Source
+* The analysis is based on a real-world dataset of Zomato delivery records.
+
+## LinkedIn
+* (-- To be added --)
 
