@@ -28,5 +28,5 @@
 * The analysis is based on a real-world dataset of Zomato delivery records.
 
 ## LinkedIn
-* (-- To be added --)
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_powerbi-dataanalysis-zomato-activity-7355834716144455680-Y09M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
 
